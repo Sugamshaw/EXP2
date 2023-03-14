@@ -9,6 +9,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         println("second commit")
-        slkgdgsgdfsdflfsd  fmdf dfm dfmd  m fadm ndam k nfa
+        dsdafdfldgfjgklfwqlesd
     }
 }
