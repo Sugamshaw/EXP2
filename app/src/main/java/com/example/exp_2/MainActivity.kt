@@ -10,5 +10,6 @@ class MainActivity : AppCompatActivity() {
         println("please do it")
         println("second commit")
         println("we are in experimental branch")
+        println("fuck")
     }
 }
