@@ -13,6 +13,8 @@ class MainActivity : AppCompatActivity() {
         println("we are in experimental branch")
         println("we are in experimental branch")
         println("fuck")
+        println("fuck from your friend")
+
         println("fuck")
     }
 }
