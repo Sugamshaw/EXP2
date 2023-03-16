@@ -7,7 +7,7 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-
+        println("please do it")
         println("second commit")
         println("we are in experimental branch")
     }
